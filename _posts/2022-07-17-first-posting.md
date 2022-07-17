@@ -54,8 +54,7 @@ class <ClassName>:
 간단하죠?
 
 
-
-![scratchpaper](../images/2022-07-17-first-posting/scratchpaper.png)
+![wine-g0f4a33f6f_640](images/2022-07-17-first-posting/wine-g0f4a33f6f_640.jpg)
 
 
 
