@@ -121,7 +121,7 @@ author:
       url: "https://github.com/wonseok-do"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -131,7 +131,7 @@ footer:
       url: "https://github.com/wonseok-do"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url:
 
 
 # Reading Files

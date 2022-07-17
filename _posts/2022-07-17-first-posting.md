@@ -4,6 +4,10 @@ title:  "첫 포스팅입니다. 설레네요!"
 categories: coding
 tag: [python, jekyll, blog]
 toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
+# search: false
 ---
 
 # 오늘 첫 블로그를 만들었어요
@@ -51,7 +55,7 @@ class <ClassName>:
 
 
 
-![wine-g0f4a33f6f_640](../images/2022-07-17-first/wine-g0f4a33f6f_640.jpg)
+![scratchpaper](../images/2022-07-17-first-posting/scratchpaper.png)
 
 
 
