@@ -1,12 +1,12 @@
 ---
 layout: single
-title:  "첫 WIL"
+title: "첫 WIL"
 categories: coding
 tag: [python, jekyll, blog]
 toc: true
 author_profile: false
 sidebar:
-    nav: "docs"
+  nav: "docs"
 # search: false
 ---
 
@@ -34,8 +34,6 @@ JWT 와 API에 대해 적으려고 합니다
 
 결국, 세션의 단점을 보완하기 위해 만들어진 JWT는 별도의 세션 저장소를 강제하지 않기 때문에 확장성이 뛰어나고, signature를 통한 보안성까지 갖추고 있다.
 
-
-
 - ## API
 
 API는 정의 및 프로토콜 집합을 사용하여 두 소프트웨어 구성 요소가 서로 통신할 수 있게 하는 메커니즘이다. Application Programming Interface의 줄임말로 고유한 기능을 가진 모든 소프트웨를 나타내고 두 애플리케이션 간의 서비스 계약을 통해 서로 통신하는 방법이다.
@@ -43,8 +41,6 @@ API는 정의 및 프로토콜 집합을 사용하여 두 소프트웨어 구성
 ![API란 무엇인가](https://blog.wishket.com/wp-content/uploads/2019/10/API-%EC%89%BD%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.png)
 
 API는 요청을 보내는 애플리케이션, 즉 클라이언트와 응답을 보내는 애플리케이션, 즉 서버로 구성되어 SOAP API, RPC API, Websocket API, REST API 이렇게 4가지 방식으로 작동한다.
-
-
 
 API 생성밥법
 
@@ -57,16 +53,3 @@ API 생성밥법
 API 마켓플레이스와 디렉터리를 통해서 다양한 API를 찾을 수 있고, 필요한 것에 맞게 사용하면 된다.
 
 API를 사용함으로써 개발자들이 애플리케이션 작성하는 방법을 표준화하고, 빠른 프로세스 처리를 가능하게 한다.
-
-
-
-
-
-
-
- 
-
-
-
-
-
