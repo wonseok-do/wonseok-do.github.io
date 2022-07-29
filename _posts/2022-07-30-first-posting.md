@@ -45,3 +45,7 @@ A파일과 B파일을 비교해보면, count_ex > src >~~~~~~~이후로 달라�
 src까지 가려면 위로 3단계 이동해야 하기 때문에 ../../../ 사용하면 된다.
 
 결국, import counter from “../../../modules/counter”; 가 된다.
+
+### 😨 참고
+
+[절대경로와 상대경로](https://88240.tistory.com/122)
