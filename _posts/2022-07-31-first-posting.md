@@ -40,3 +40,11 @@ state 가 변경되면 컴포넌트를 다시 렌더링 해야합니다.
 - state가 바뀔 때
 - 부모 컴포넌트가 업데이트 되었을 때(=리렌더링했을 때)
 - 또는, 강제로 업데이트 했을 경우! (forceUpdate()를 통해 강제로 컴포넌트를 업데이트할 수 있습니다.)
+
+### 😶 참고
+
+[React.state ,props 하는일과 차이점](https://velog.io/@s2s2hyun/React.state-props-%ED%95%98%EB%8A%94%EC%9D%BC%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+
+[props](https://itprogramming119.tistory.com/entry/React-props-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EB%B0%8F-%EC%98%88%EC%A0%9C?category=1203905)
+
+[Components와 Props - React](https://ko.reactjs.org/docs/components-and-props.html)
