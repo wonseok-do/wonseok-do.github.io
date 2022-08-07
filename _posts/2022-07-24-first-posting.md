@@ -26,7 +26,7 @@ DOM객체.removeEventListener(이벤트명,실행했던 함수명);
 
 클래스형 컴포넌트 라이프 사이클 메서드
 
-![클래스형 컴퍼넌트](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/31b292fd-c708-4310-ae4a-7bfe4ae4c37e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220723%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220723T152927Z&X-Amz-Expires=86400&X-Amz-Signature=b0d272ea93369c8fb97d58a9ffa752a131d759982ba426963cad7693b75b604a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![클래스형 컴퍼넌트](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/31b292fd-c708-4310-ae4a-7bfe4ae4c37e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220807%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220807T134648Z&X-Amz-Expires=86400&X-Amz-Signature=b16d9019e26f17ca192d608098d84362976cc428aaaa5d9d395e6de596085c58&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 출처: [http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 
